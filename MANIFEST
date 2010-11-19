@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Net-LDAP-ADGroup.t
+lib/Net/LDAP/ADGroup.pm
+example/check_membership.pl

@@ -1,0 +1,34 @@
+Net-LDAP-ADGroup version 0.02
+=============================
+
+A basic extension of Net::LDAP, provides methods: ismembers and allgroups.
+These methods can be used to easily check group membership in an
+applications
+
+There is an example script using the module in the example folder of this
+distribution.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+Net::LDAP
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2010 by Eric G. Wolfe
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.10.1 or,
+at your option, any later version of Perl 5 you may have available.
+
+

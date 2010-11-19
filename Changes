@@ -1,0 +1,11 @@
+Revision history for Perl extension Net::LDAP::ADGroup.
+
+0.1.0  Fri Jul  2 22:35:47 2010
+	- original version; created by h2xs 1.23 with options
+		-X -n Net::LDAP::ADGroup
+
+0.2.0  Wed Jul  7 13:56:59 2010
+    - Documented usage, tested, ready for initial release.
+
+0.2.1  Mon Jul 26 13:18:43 2010
+	- Added dependencies for version.pm, and parent.pm
